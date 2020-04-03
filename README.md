@@ -1,4 +1,4 @@
-# Some useful codes in STAT150 game theory
+## Some useful codes in STAT150 Game Theory at UC Berkeley
 
 Stat155, the game theory at Berkeley is an intriguing course I took in fall 2019. I wrote some samll python programs to save students' time from arduous calculation or they can help student check if their hand-calculated results are correct. 
 
