@@ -1,3 +1,7 @@
-# Some useful code in game theory
+# Some useful codes in STAT150 game theory
 
-Stat155, the game theory is a course I took in fall 2019 at Berkeley. I wrote some little python programs to save me from arduous calculation. Makes it easier to check if your result is correct. To calculate the Value Of The Game from a zero-sum game matrix. To calculate the Sprague-Grundy value of a Nim game.
+Stat155, the game theory at Berkeley is an intriguing course I took in fall 2019. I wrote some samll python programs to save students' time from arduous calculation or they can help student check if their hand-calculated results are correct. 
+
+zero-sum.py is used to get the Value Of The Game in a zero-sum game matrix. 
+
+grundy.py is used to calculate the Sprague-Grundy value of a Nim game.
